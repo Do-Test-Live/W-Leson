@@ -30389,12 +30389,12 @@ PAGE LOAD ANIMATION
   border-color: #fff;
   color: #03041c;
 }
-
 .slider-bg-image3 {
   background: url(../images/slider/slider-bg-image3.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  background-color: #03041c;
 }
 .slider-bg-image3 .container {
   padding-top: 150px;
