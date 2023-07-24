@@ -32375,7 +32375,6 @@ PAGE LOAD ANIMATION
 }
 
 .sc-team-content-area {
-  display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
   align-items: center;
@@ -33465,6 +33464,7 @@ PAGE LOAD ANIMATION
 }
 .sc-project-content-area .sc-related-content .sc-related-check .list-gap li {
   margin-bottom: 15px;
+  color: #0b0b0b;
 }
 .sc-project-content-area .sc-related-content .sc-related-check .list-gap li svg {
   margin-right: 10px;
@@ -35180,13 +35180,9 @@ PAGE LOAD ANIMATION
   background-position: center;
 }
 
-.footer-bg-image1 {
-  background-image: url(../images/bg/footer-bg.jpg);
-}
 
-.footer-bg-image2 {
-  background-image: url(../images/bg/footer_bg2.jpg);
-}
+
+
 
 .sc-footer-subscribe {
   background: #353950;
