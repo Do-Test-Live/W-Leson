@@ -321,6 +321,9 @@ textarea:focus {
 .sc-transparent-btn:hover:before {
   width: 100%;
 }
+.head3{
+  margin-left:567px !important;
+}
 
 .sc-secondary-btn {
   display: inline-block;
@@ -1294,6 +1297,9 @@ PAGE LOAD ANIMATION
     width: 7.5em;
     height: 7.5em;
     margin: 0 auto 1.5em auto;
+  }
+  .head3{
+    margin-left:80px !important;
   }
 }
 .preloader .animation-preloader .txt-loading {
@@ -2346,7 +2352,7 @@ PAGE LOAD ANIMATION
 }
 
 .sc-pb-210 {
-  padding-bottom: 210px;
+  padding-bottom: 90px;
 }
 
 .sc-pb-205 {
@@ -5018,7 +5024,7 @@ PAGE LOAD ANIMATION
 }
 
 .sc-mb-60 {
-  margin-bottom: 60px;
+  margin-bottom: 0px;
 }
 
 .sc-mb-61 {
@@ -12762,7 +12768,7 @@ PAGE LOAD ANIMATION
     margin-bottom: 39px;
   }
   .sc-md-mb-40 {
-    margin-bottom: 40px;
+    margin-bottom: -14px;
   }
   .sc-md-mb-41 {
     margin-bottom: 41px;
