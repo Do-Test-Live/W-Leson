@@ -164,7 +164,7 @@ textarea:focus {
 }
 .sc-heading-area .title {
   display: block;
-  margin-bottom: 25px;
+  margin-bottom: 28px;
 }
 
 .white-sub-title {
@@ -289,7 +289,7 @@ textarea:focus {
   color: #03041c;
   font-weight: 600;
   transition: all 0.5s;
-  border: 2px solid #eeeff1;
+  border: 2px solid rgb(181 136 1);
   border-radius: 3px;
   position: relative;
   overflow: hidden;
@@ -323,6 +323,17 @@ textarea:focus {
 }
 .head3{
   margin-left:567px !important;
+  margin-top: 45px;
+}
+.head4{
+  display: block;
+  margin-bottom: 36px;
+  margin-top: 79px;
+}
+.head5{
+  margin-bottom: 60px !important;
+  margin-top: -20px !important;
+  font-size: 33px !important;
 }
 
 .sc-secondary-btn {
@@ -1301,6 +1312,17 @@ PAGE LOAD ANIMATION
   .head3{
     margin-left:80px !important;
   }
+  .head4{
+    display: block;
+    margin-bottom: 14px !important;
+    margin-top: -20px !important;
+    font-size: 33px !important;
+  }
+  .head5{
+    margin-bottom: 33px !important;
+    margin-top: -109px !important;
+    font-size: 38px !important;
+  }
 }
 .preloader .animation-preloader .txt-loading {
   font-size: 80px;
@@ -1668,7 +1690,7 @@ PAGE LOAD ANIMATION
 }
 
 .sc-pt-115 {
-  padding-top: 115px;
+  padding-top: 0px;
 }
 
 .sc-pt-120 {
